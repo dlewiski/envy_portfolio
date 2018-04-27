@@ -35,10 +35,11 @@
   * Public speaking- Sustainability tips, store manager, friends and family sales manager
   * Customer service- ecommerce, service industry, national park service
   * Positivity- Environmental science, company letting people go, lack of budget
-  * Inclusive - awareness for those who feel left out, make an effort to include them, Epicodus (Russell), Icebreaker (retail stores)
-  * Connectedness
-  * Futuristic - ENVY, re designing website 
-  * Restorative
+  * Inclusive - awareness for those who feel left out, make an effort to include them, Epicodus (Russell), Icebreaker (retail stores), Icebreaker website reformat (Lairen)
+  * Communication- online, email, chat, in person, over the phone (Customer Service, Store Manager, Sustainability Committee, literally every job), clear, transparent communication, see things from the other persons point of view, don't make assumptions and give folks the benefit of the doubt
+  * Futuristic - ENVY, re designing website
+  * Restorative - Figuring out what is wrong and resolving it, Store Manager (working with contractor and supervisor), lack of communication
+  * Quantitative - have an affinity and natural ability toward numbers and mathematics
 
 
 
