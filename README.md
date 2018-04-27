@@ -12,8 +12,12 @@
   * Notable projects
     * ENVY Angular- Web application built using Angular. Created a framework where users can see sustainability stories and assess their environmental impact. Used firebase to set up a database and deploy application. The modular aspect is what excites me most about this project. Used separate services to retrieve information from the database and kept code organized using 7 different components. Will add user authentication so users can keep track of their environmental score and add their own stories.
 
-    * Epicoin - Ruby web application that emulates a blockchain node with the goal to educate and provide deeper understanding of blockchain technology. 
-  * Chicago dataset
+    * Epicoin - Ruby web application that emulates a blockchain node with the goal to educate and provide deeper understanding of blockchain technology. This was a group project where my main contribution was in the construction, organization, and visualization of the SQL database. I implemented a many to many relationship and 3, one to many relationships.
+
+    * TAO Oregon - Angular application that is a one stop shop for over 500 hiking trails in the state of Oregon. Group project where my main contributions were created the services and components for the weather api and air quality api. I also styled and formatted the weather display to properly provide a 5 day forecast for each trail. I also implemented a daily air quality report for each trail.
+
+  * Chicago dataset - Working with a data science firm to clean and prepare the Chicago Food Inspection dataset using the Python data analysis library Pandas. Using a jupiter notebook on Google Colaboratory to preform the initial data cleaning. Goal will be to then focus on violations and see what restaurants have the most least violations and make suggestions how these techniques can be applied to assist other food institutions.
+  
   * Modularity and developed skills
 
 ### Nature and the great outdoors
