@@ -19,13 +19,27 @@
   * Chicago dataset - Working with a data science firm to clean and prepare the Chicago Food Inspection dataset using the Python data analysis library Pandas. Using a jupiter notebook on Google Colaboratory to preform the initial data cleaning. Goal will be to then focus on violations and see what restaurants have the most least violations and make suggestions how these techniques can be applied to assist other food institutions.
 
   * Modularity and developed skills
-  Through completing over 700 hours of coding, I have a strong foundation in developing applications that are modular, organized including separation of logic, follow the MVC process, and preforming unit and integration testing. 
+  Through completing over 700 hours of coding, I have a strong foundation in developing applications that are modular, organized- including separation of logic, follow the MVC process, and preform unit and integration testing. I have confidence in quickly learning new technologies and frameworks, as well as being able to troubleshoot bugs and communicate effectively about code.
 
 ### Nature and the great outdoors
+  I feel such a sense of calm and inspiration when I am in nature. The more remote, the less people, the more pristine the landscape, the more at peace I feel. Backpacking enables the ability to get deep into nature, and to focus on only the essentials you need to survive and be happy. Also, the taste of peanut butter and cheese is taken to a whole new level in the backcountry.
 
   * Rock climbing
+    This is a more recent endeavor and way to get into nature. This sport is a fantastic combination of mental and physical testing. It offers a whole new perspective and a whole new connection to nature.
 
 ### Icebreaker
+  Icebreaker Merino was my home for a new chapter in my career. It provided a wonderful, supportive team which enabled me to dive into corporate responsibility. It was a great place to learn and experience all the different parts that make up a business. As and ecommerce customer service rep, I was fortunate be involved with so many teams. From marketing materials, to website roll outs, to knew product lauches, I developed strong communication and self awareness to work most effectively with such a diverse set of teams.
+
+### Skills
+  * Leadership- sustainability committee, store manager
+  * Public speaking- Sustainability tips, store manager, friends and family sales manager
+  * Customer service- ecommerce, service industry, national park service
+  * Positivity- Environmental science, company letting people go, lack of budget
+  * Inclusive - awareness for those who feel left out, make an effort to include them, Epicodus (Russell), Icebreaker (retail stores)
+  * Connectedness
+  * Futuristic - ENVY, re designing website 
+  * Restorative
+
 
 
 
