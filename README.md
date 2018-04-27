@@ -17,8 +17,9 @@
     * TAO Oregon - Angular application that is a one stop shop for over 500 hiking trails in the state of Oregon. Group project where my main contributions were created the services and components for the weather api and air quality api. I also styled and formatted the weather display to properly provide a 5 day forecast for each trail. I also implemented a daily air quality report for each trail.
 
   * Chicago dataset - Working with a data science firm to clean and prepare the Chicago Food Inspection dataset using the Python data analysis library Pandas. Using a jupiter notebook on Google Colaboratory to preform the initial data cleaning. Goal will be to then focus on violations and see what restaurants have the most least violations and make suggestions how these techniques can be applied to assist other food institutions.
-  
+
   * Modularity and developed skills
+  Through completing over 700 hours of coding, I have a strong foundation in developing applications that are modular, organized including separation of logic, follow the MVC process, and preforming unit and integration testing. 
 
 ### Nature and the great outdoors
 
