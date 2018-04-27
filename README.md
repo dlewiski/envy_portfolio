@@ -52,6 +52,7 @@
   Admin route using Devise
 
 ### Database
+  Users table from Devise
 
 
 
