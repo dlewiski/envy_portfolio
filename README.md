@@ -1,5 +1,26 @@
 # README
 
+## The Big Picture
+
+### Overview
+
+### ENVY
+
+### Coding
+  * Notable projects
+  * Chicago dataset
+  * Modularity and developed skills
+
+### Nature and the great outdoors
+
+  * Rock climbing
+
+### Icebreaker
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
