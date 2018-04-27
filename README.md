@@ -42,7 +42,16 @@
   * Quantitative - have an affinity and natural ability toward numbers and mathematics
 
 
+## Application Plan
 
+### Landing Page
+
+### Nav Bar
+
+### Authentication
+  Admin route using Devise
+
+### Database
 
 
 
