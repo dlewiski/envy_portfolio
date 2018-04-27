@@ -10,6 +10,9 @@
 
 ### Coding
   * Notable projects
+    * ENVY Angular- Web application built using Angular. Created a framework where users can see sustainability stories and assess their environmental impact. Used firebase to set up a database and deploy application. The modular aspect is what excites me most about this project. Used separate services to retrieve information from the database and kept code organized using 7 different components. Will add user authentication so users can keep track of their environmental score and add their own stories.
+
+    * Epicoin - Ruby web application that emulates a blockchain node with the goal to educate and provide deeper understanding of blockchain technology. 
   * Chicago dataset
   * Modularity and developed skills
 
